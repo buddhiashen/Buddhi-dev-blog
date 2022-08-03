@@ -16,9 +16,6 @@ type IndexProps = {
 export const Index = ({ posts }: IndexProps): JSX.Element => {
   return (
     <Layout>
-<style>
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&display=swap');
-</style>
       <h1>How are you fellas! 🤚 </h1>
       <h1>Hello 👋 I'm Buddhi Ashen - curious fullstack student & Python noob based in Colombo, Sri-Lanka. This is my platform 
         that i share my works, how i manage to solve problem when i am doing coding  and programming and many more....
