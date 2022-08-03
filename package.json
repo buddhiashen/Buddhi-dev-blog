@@ -1,6 +1,5 @@
 {
-  "name": "nextjs-typescript-mdx-blog",
-  "author": "@huntarosan",
+  "name": "dev-blog",
   "license": "MIT",
   "version": "1.0.0",
   "scripts": {
