@@ -8,9 +8,7 @@ export const About = (): JSX.Element => {
         title: 'About - Buddhi Ashen',
       }}
     >
-            <style>
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&display=swap');
-</style>
+           
       <h1>About Page</h1>
       <p>Welcome to the about page</p>
     </Layout>
